@@ -1,0 +1,3 @@
+# Verified CUDA build for Windows/Python 3.15; includes the CPython ABI fix.
+--extra-index-url https://download.pytorch.org/whl/cu132
+torch==2.15.0+cu132

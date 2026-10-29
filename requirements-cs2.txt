@@ -1,0 +1,6 @@
+# Model + optional screen recorder. GSI alone uses only the standard library.
+# For a specific CUDA build of torch, install the appropriate wheel first.
+torch>=2.15,<2.16
+numpy
+mss
+opencv-python

@@ -1,0 +1,2 @@
+-r requirements-cs2.txt
+# Demo parser is installed separately: npm.cmd ci --prefix pretraining/node
