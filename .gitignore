@@ -10,7 +10,6 @@ runs/
 
 # Generated recordings, training data, and model checkpoints
 models/initial_weights/
-demos/*/frames/
 successful_behaviors/
 *.zip
 *.pth
