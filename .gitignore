@@ -4,6 +4,7 @@ __pycache__/
 .idea/
 pretraining/node/node_modules/
 datasets/
+demos/
 runs/
 .cache/
 

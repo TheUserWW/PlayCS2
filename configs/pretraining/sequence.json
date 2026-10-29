@@ -1,0 +1,4 @@
+{
+  "training": {"steps": 10000, "length": 128, "accumulate": 8, "lr": 0.0001, "cnn_lr": 0.00003, "eval_every": 500, "save_every": 1000},
+  "model": {}
+}

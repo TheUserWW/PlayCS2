@@ -1,0 +1,11 @@
+{
+  "training": {
+    "steps": 8,
+    "length": 32,
+    "accumulate": 1,
+    "eval_every": 2,
+    "save_every": 2,
+    "device": "cuda"
+  },
+  "model": {}
+}
